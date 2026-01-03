@@ -1,0 +1,4 @@
+while installing mongo db emviroment following setup will be installed 
+1. server -> Mongo D 
+2. client(cui)command user interface -> Mongo 
+note - > on windows machine GUI (graphical user interface ) client will also be install 
